@@ -3,7 +3,7 @@
 ## 常规自动安装
 
 ```
-bash <(wget --no-check-certificate -qO- https://github.com/iiiiiii1/LotServer/raw/master/Install.sh) install
+bash <(wget --no-check-certificate -qO- https://github.com/TooSu1/LotServer/raw/master/Install.sh) install
 ```
 
 ## 指定内核安装
